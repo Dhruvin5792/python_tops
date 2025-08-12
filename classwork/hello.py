@@ -4,6 +4,9 @@ print("hello ' python")
 
 print('hello " python')
 
+print("hello ", end=" / ")
+print("dhruvin")
+
 print("""dhruvin
       virani
       tops tech
