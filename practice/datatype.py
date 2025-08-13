@@ -49,6 +49,13 @@ b=int(a)
 print(type(b))
 
 
+d='dhruvin'
+g=str(d)
+print(type(g))
+
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-print("hello word")
+print("hello world")
 
 print("hello ' python")
 
