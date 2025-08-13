@@ -33,15 +33,16 @@ print(type(m))
 
 a=222.2222
 b=(float(a))
-
 print(type(b))
-
 
 
 c=22
 d=(int(c))
-
 print(type(d))
+
+e='dhruvin'
+f=(str(e))
+print(type(f))
 
 
 
